@@ -1,6 +1,6 @@
 # Analytics Project on Indian Demographics
 
-Performed Web-Scrapping and Data Visualization on [Indian Demographics](https://en.wikipedia.org/wiki/Demographics_of_India) using 
+Performed **Web-Scrapping** and **Data Visualization** on [Indian Demographics](https://en.wikipedia.org/wiki/Demographics_of_India) using 
 `Beautiful Soup` and `Plotly`.
 
 # Process
