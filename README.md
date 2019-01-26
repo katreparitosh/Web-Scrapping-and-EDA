@@ -17,6 +17,8 @@ Performed **Web-Scrapping** and **Data Visualization** on [Indian Demographics](
 - Numpy
 
 # Sample Visuals and Plots
+*Refer the [Code File](https://github.com/katreparitosh/Web-Scrapping-and-EDA/tree/master/Codes) for the entire project.*
+
 - Life Expectancy in Years 
 ![life](https://raw.githubusercontent.com/katreparitosh/Web-Scrapping-and-EDA/master/Plots/newplot%20(6).png)
 
